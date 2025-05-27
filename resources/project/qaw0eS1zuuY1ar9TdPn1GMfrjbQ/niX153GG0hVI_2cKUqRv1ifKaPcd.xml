@@ -18,4 +18,7 @@
     <Category UUID="Deployment_Category_234580e9-662e-401b-b35f-b79774bfb7fb">
         <Label UUID="Deployment_MainFile_234580e9-662e-401b-b35f-b79774bfb7fb"/>
     </Category>
+    <Category UUID="Deployment_Category_73f6ce5c-c634-41b4-9981-1c2e45580e09">
+        <Label UUID="Deployment_MainFile_73f6ce5c-c634-41b4-9981-1c2e45580e09"/>
+    </Category>
 </Info>
