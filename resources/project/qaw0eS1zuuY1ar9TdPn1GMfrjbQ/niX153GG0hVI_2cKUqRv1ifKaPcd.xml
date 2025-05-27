@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+    <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+    </Category>
+    <Category UUID="Deployment_Category_23f085d1-78ad-47ad-83bf-c8318e2bb9c4">
+        <Label UUID="Deployment_MainFile_23f085d1-78ad-47ad-83bf-c8318e2bb9c4"/>
+    </Category>
+    <Category UUID="Deployment_Category_c8b98ccf-d102-4a4b-a387-f13abea8a9e8">
+        <Label UUID="Deployment_MainFile_c8b98ccf-d102-4a4b-a387-f13abea8a9e8"/>
+    </Category>
+    <Category UUID="Deployment_Category_635448ab-35e9-4ff8-b281-75c8de43ea9d">
+        <Label UUID="Deployment_MainFile_635448ab-35e9-4ff8-b281-75c8de43ea9d"/>
+    </Category>
+    <Category UUID="Deployment_Category_dbe03b0a-0df5-49f6-a95b-dab5f75095ff">
+        <Label UUID="Deployment_MainFile_dbe03b0a-0df5-49f6-a95b-dab5f75095ff"/>
+    </Category>
+    <Category UUID="Deployment_Category_234580e9-662e-401b-b35f-b79774bfb7fb">
+        <Label UUID="Deployment_MainFile_234580e9-662e-401b-b35f-b79774bfb7fb"/>
+    </Category>
+</Info>
