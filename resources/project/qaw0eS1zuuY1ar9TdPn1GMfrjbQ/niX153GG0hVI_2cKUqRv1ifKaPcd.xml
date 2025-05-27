@@ -21,4 +21,7 @@
     <Category UUID="Deployment_Category_73f6ce5c-c634-41b4-9981-1c2e45580e09">
         <Label UUID="Deployment_MainFile_73f6ce5c-c634-41b4-9981-1c2e45580e09"/>
     </Category>
+    <Category UUID="Deployment_Category_be26d312-9de7-45af-ab78-bac4cc3dcc09">
+        <Label UUID="Deployment_MainFile_be26d312-9de7-45af-ab78-bac4cc3dcc09"/>
+    </Category>
 </Info>

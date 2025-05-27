@@ -259,13 +259,10 @@ function calculadora_gui()
                     AritmeticaGui();
                 case 2
                     calcular_raices_gui();
-                    mensaje = 'Raices listas'
                 case 3
                     calculo_limites_gui();
-                    mensaje = 'Método de bisección completado';
                 case 4
                     DerivadasGui();
-                    mensaje = 'Derivadas chidas';
                 case 5
                     IntegralesGui();
                 case 6
@@ -274,58 +271,42 @@ function calculadora_gui()
                     funcion_potencia_gui();
                 case 8
                     calcular_volumen_gui();
-                    mensaje = 'volumen listo'
                 case 9
                     calcular_perimetro_gui();
-                    mensaje = 'perimetros listos'
                 case 10
                     calculo_areas_gui();
-                    mensaje = 'Calculo de areas'
                 case 11
                     calcular_biseccion_gui();
-                    mensaje = 'Método de bisección completado';
                 case 12
                     secante_modi_gui();
-                    mensaje = 'Método de secante modificada completado';
                 case 13
                     raices_multiples_gui();
-                    mensaje = 'Método de raices multiples completado'
                 case 14
                     muller_gui();
-                    mensaje = 'Método de muller completado'
                 case 15
                     punto_fijo_gui();
-                    mensaje = 'Método punto fijo Completado'
                 case 16
                     gauss_seidel_gui();
-                    mensaje = 'Metodo Gauss_seidel_gui'
                 case 17
                     newton_rapshon_gui();
-                    mensaje = 'Metodo de Newton Rapson'
                 case 18
                     resolver_inecuacion_gui();
-                    mensaje = 'Resolver inecuacion completado'
                 case 19
                     solucionador_ecuaciones_gui();
-                    mensaje = 'Solucionador de ecuaciones'
                 case 20
-                    calculadora_matrices_gui();
-                    mensaje = 'Calculadora de matrices completado'
+                    OperacionMatricesGui();
                 case 21
                     mrua_gui();
-                    mensaje = 'MRUA LISTO1'
                 case 22
                     CaidaLibreGui();
-                    mensaje = 'Caida libre listo'
                 case 23
                     LanzarProyectilesGui();
                 case 24
                     SegundaLeyNewtonGui();
                 case 25
                     TerceraLeyNewtonGui();
-                case 26  % NUEVO CASO: Método de la Secante
+                case 26 
                     SecanteGui();
-                    mensaje = 'Método de la secante completado'
                 otherwise
                     error('Opción no válida');
             end
