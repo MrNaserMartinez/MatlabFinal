@@ -27,4 +27,10 @@
     <Category UUID="Deployment_Category_5289f2fe-767c-4ab2-9226-4afed4443f54">
         <Label UUID="Deployment_MainFile_5289f2fe-767c-4ab2-9226-4afed4443f54"/>
     </Category>
+    <Category UUID="Deployment_Category_7a144545-f9a9-4ace-b5fe-ea810f9bfb3b">
+        <Label UUID="Deployment_MainFile_7a144545-f9a9-4ace-b5fe-ea810f9bfb3b"/>
+    </Category>
+    <Category UUID="Deployment_Category_c9debd5a-7d72-49bb-a89d-fac638426e2a">
+        <Label UUID="Deployment_MainFile_c9debd5a-7d72-49bb-a89d-fac638426e2a"/>
+    </Category>
 </Info>
