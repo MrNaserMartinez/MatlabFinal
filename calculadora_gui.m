@@ -233,7 +233,7 @@ function calculadora_gui()
     
     % Función principal para ejecutar las diferentes opciones
     function ejecutar_funcion(opcion)
-        % Mapeo de nombres para mejor identificación (actualizado con secante)
+        % Mapeo de nombres para mejor identificación 
         nombres_funciones = {
             'Operaciones Aritméticas Básicas', 'Funciones de Raíces', 'Cálculo de Límites', ...
             'Cálculo de Derivadas', 'Integrales', 'Funciones Trigonométricas', ...

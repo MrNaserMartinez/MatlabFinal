@@ -1,4 +1,4 @@
-function calculadora_raices_gui()
+function calcular_raices_gui()
 % CALCULADORA_RAICES_GUI Interfaz gráfica simple para calcular raíces
 % Esta función crea una GUI básica para calcular raíces cuadradas y cúbicas
 
